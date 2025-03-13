@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,Location,Email
+1,Alice,36,Chicago,alice@example.com
+2,Bob,59,Chicago,bob@example.com
+3,Charlie,23,Los Angeles,charlie@example.com
+4,David,28,New York,david@example.com
+5,Eve,32,Los Angeles,eve@example.com
+6,Frank,42,Miami,frank@example.com
+7,Grace,47,Houston,grace@example.com
+8,Hannah,56,Houston,hannah@example.com
+9,Ian,27,Phoenix,ian@example.com
+10,Jack,36,Miami,jack@example.com
